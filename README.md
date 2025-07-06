@@ -7,10 +7,11 @@ Yes, I am also aware of (and own) the excellent digirig mobile interface which h
 ## Features
 * Built-in USB hub - only one cable needed to computer
 * Genuine CM108B sound chip - Works with allstarlink trivially
-* Serial-USB interface allowing control of serial devices 
+* Serial-USB interface allowing control of serial devices (did someone say CAT control?)
 * USB Header on board - Can be coupled with custom daugherboard for future expansion
 
 ## Availability
 Right now, this is just a kicad design. Once I have some test boards back from the fab plant, I'll see how well they behave and possibly have some for sale.
 
-
+### Contact
+mail me at [TasBufo@vk7hpc.net](mailto:TasBufo@vk7hpc.net) for more details. AI spam will go to /dev/null.
