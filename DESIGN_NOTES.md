@@ -26,28 +26,11 @@ There are lots of possible USB-Serial UART chips. FTDI is at risk of 'fake' chip
 
 *FIXME* RS232 - Digirig-mobile has a ADM3101E level converter? overkill? leave pads in v2?
 
-
-
-
-
 # Datasheets
 All datasheets I have used in this design are in the datasheets/ directory. They were the most recent I could find at the time of design. It is the users responsibility to check these are still current if adapting the board.
 
+The TOADS-DI interface is NOT open source, but their [manual is available online](https://geni.us/toads-di)
 
-TOADS DI Docs - TOADs-Digital-Interface-Guide.pdf v1.2
-
-usb socket - usb2 in a usb c shwll, 16 pin https://au.mouser.com/ProductDetail/GCT/USB4215-03-A?qs=IKkN%2F947nfBipec8wvDabA%3D%3D
-
-
-
-USB 4 port hub https://ww1.microchip.com/downloads/aemDocuments/documents/UNG/ProductDocuments/DataSheets/USB251xB-xBi-Data-Sheet-DS00001692.pdf
-
-
-
-LICENCE
-Given that digirig is gpl3. we may as well go open source. 
-TAPR https://tapr.org/the-tapr-open-hardware-license/
-CERN https://cern-ohl.web.cern.ch/
-
-
+# LICENCE
+Given that digirig is GPL3. we may as well go open source. I've chosen the [CERN open hardware licence](https://cern-ohl.web.cern.ch/) mainly because I used to work there and they're supporting KiCad. 
 
