@@ -1,5 +1,5 @@
 # Design notes for TasBufo. 
-This board began as an extension of the toads-di functionality to try and make it work with my Retevis RT-95 radio (which doesn't have a 'data' port but _does_ talk serial over the front RJ45 port to the embedded microcontroller in the standard microphone, and things just escalated from there.
+This board began as an extension of the toads-di functionality to try and make it work with my Retevis RT-95 radio (which doesn't have a 'data' port but _does_ talk serial over the front RJ45 port to the embedded microcontroller in the standard microphone) and things just escalated from there.
 
 ## USB C upstream connection
 I'm just using a 16 pin connecor wired for USB-2 compatibility. Sorry if you're expecting USB 3.x super-speed goodness, but nothing on this board require that extra complexity. Hoprfully both sides of the connector are wired so cable should be reversible.
