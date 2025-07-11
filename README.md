@@ -18,4 +18,4 @@ mail me at [TasBufo@vk7hpc.net](mailto:TasBufo@vk7hpc.net) for more details. AI 
 
 ## Acknowledgements
 
-Special shoutout to [softcomplex/digirig](https://digirig.net/) for making their [designs](https://github.com/softcomplex/Digirig-Mobile) open source. As this was my first kicad project, being able to look up part numbers in their schematic was a drastic timesaver to get started. K0SWE's 'mountaineer' board was also a useful reference.
+Special shoutout to [softcomplex/digirig](https://digirig.net/) for making their [designs](https://github.com/softcomplex/Digirig-Mobile) open source. As this was my first kicad project, being able to look up part numbers in their schematic was a drastic timesaver to get started. [K0SWE's 'mountaineer' board](https://github.com/k0swe/mountaineer/) was also a useful reference.
